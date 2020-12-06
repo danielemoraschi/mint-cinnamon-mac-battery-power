@@ -1,0 +1,8 @@
+{
+    "max-instances": "1",
+    "version": "1.0.0",
+    "uuid": "battery-power@dmr",
+    "name": "Battery power",
+    "description": "Displays remaining battery power using 'acpi'",
+    "multiversion": true
+}
